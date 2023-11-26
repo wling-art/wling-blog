@@ -9,8 +9,9 @@ since = 2023
 customText = "It'll come to an end~"
 
 [dateFormat]
-published = "2023-11-26"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+#中国时间
+published = "Jan 2 2006 15:04 MST"
+lastUpdated = "2006-01-02 15:04:05"
 
 [sidebar]
 emoji = "🥲"
