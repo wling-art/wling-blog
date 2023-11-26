@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://blog.tblstudio.cn"
+baseurl = "https://wling-art.github.io"
 languageCode = "en-us"
 paginate = 5
 title = "wlingのblog"
