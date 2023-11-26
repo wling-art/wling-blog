@@ -5,16 +5,16 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = ""
+since = 2023
+customText = "It'll come to an end~"
 
 [dateFormat]
-published = "Jan 02, 2006"
+published = "2023-11-26"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "🥲"
+subtitle = "昨天也很努力，还是明天在努力吧！"
 
 [sidebar.avatar]
 enabled = true
