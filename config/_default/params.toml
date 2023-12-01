@@ -10,7 +10,7 @@ customText = "It'll come to an end~"
 
 [dateFormat]
 #中国时间
-published = "Jan 2 2006 15:04 MST"
+published = "2006-01-02 15:04:05"
 lastUpdated = "2006-01-02 15:04:05"
 
 [sidebar]

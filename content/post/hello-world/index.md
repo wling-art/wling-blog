@@ -2,10 +2,8 @@
 title: Welcome~
 description: Hey,欢迎啊朋友！
 slug: hello-world
-date: 2023-11-12 00:00:00+0000
+date: 2023-11-12 00:00:00 +0800
 image: cover.jpg
-categories:
-tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
