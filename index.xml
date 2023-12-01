@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>wlingのblog</title><link>/</link><description>Recent content on wlingのblog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 02 Dec 2023 00:36:52 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome~</title><link>/p/hello-world/</link><pubDate>Sun, 12 Nov 2023 00:00:00 +0800</pubDate><guid>/p/hello-world/</guid><description>&lt;img src="/p/hello-world/cover.jpg" alt="Featured image of post Welcome~" />&lt;h2 id="hiim-wling">Hi,I&amp;rsquo;m &lt;strong>Wling&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>🔬学习中: 初中生 🐮🐴&lt;/li>
+&lt;li>💬 Some 链接:&lt;a class="link" href="https://home.tblstudio.cn/" target="_blank" rel="noopener"
+>Blog&lt;/a>&lt;/li>
+&lt;li>🎮 打游戏 &lt;a class="link" href="https://store.steampowered.com/app/730/CounterStrike_2/" target="_blank" rel="noopener"
+>CS2&lt;/a>&lt;/li>
+&lt;li>🛹 想找人陪我玩游戏🥲 &lt;a class="link" href="https://steamcommunity.com/profiles/76561199082915590/" target="_blank" rel="noopener"
+>Steam&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="-啥也不会">🌟 &lt;strong>啥也不会&lt;/strong>&lt;/h2>
+&lt;p>&lt;img src="https://img.shields.io/badge/Windows11-0078d6?style=flat-square&amp;amp;logo=windows&amp;amp;logoColor=fff"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/-Python-3e74a2?style=flat-square&amp;amp;logo=Python&amp;amp;logoColor=fff"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/-HTML-e76029?style=flat-square&amp;amp;logo=html5&amp;amp;logoColor=fff"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/-CSS-275ee4?style=flat-square&amp;amp;logo=css3&amp;amp;logoColor=fff"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/-JavaScript-eeca03?style=flat-square&amp;amp;logo=javascript&amp;amp;logoColor=fff"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/-PS-00c7f5?style=flat-square&amp;amp;logo=adobephotoshop&amp;amp;logoColor=fff"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/-PR-d46bf7?style=flat-square&amp;amp;logo=adobepremierepro&amp;amp;logoColor=fff"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/-LR-abd0e8?style=flat-square&amp;amp;logo=adobelightroomclassic&amp;amp;logoColor=fff"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/-AU-00d8b0?style=flat-square&amp;amp;logo=adobeaudition&amp;amp;logoColor=fff"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/Osu!-%23FF66AA?style=flat-square&amp;amp;logo=osu&amp;amp;logoColor=white"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/Debian-%23A81D33?style=flat-square&amp;amp;logo=debian&amp;amp;logoColor=white"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&amp;amp;logo=docker&amp;amp;logoColor=white"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&amp;amp;logo=Vue.js&amp;amp;logoColor=fff"
+loading="lazy"
+>
+&lt;img src="https://img.shields.io/badge/Vscode-%23007ACC?style=flat-square&amp;amp;logo=visualstudiocode&amp;amp;logoColor=fff"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="干嘛建站">干嘛建站？&lt;/h2>
+&lt;p>分享自己的一些经验吧，也希望能帮助到你。&lt;del>（其实就是发电&lt;/del>&lt;/p>
+&lt;p>如果你也有好的想法或者建议，欢迎Github Issue或者PR。
+&lt;br/>不要吝啬你的文笔！&lt;/p>
+&lt;p>给个Star让我偷偷开心也行的！&lt;/p>
+&lt;p>GitHub: &lt;a class="link" href="https://github.com/wling-art" target="_blank" rel="noopener"
+>wling-art&lt;/a> &lt;br />
+GitHub 项目: &lt;a class="link" href="https://github.com/wling-art/wling-blog" target="_blank" rel="noopener"
+>wling-blog&lt;/a>&lt;/p>
+&lt;h2 id="建站系统">建站系统&lt;/h2>
+&lt;p>&lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
+>Hugo&lt;/a> + Github Pages.&lt;/p>
+&lt;ul>
+&lt;li>Hugo 是一个静态网站生成器，使用 Go 语言编写，速度快，安装简单，支持 Markdown，支持主题，支持自定义主题。我的主题：&lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack-starter" target="_blank" rel="noopener"
+>hugo-theme-stack&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;del>拜托，GitHub Pages 很酷的好么？&lt;/del>&lt;/p></description></item><item><title>一个MineCraft服务器~</title><link>/p/minecraftserver/</link><pubDate>Sat, 02 Dec 2023 00:36:52 +0800</pubDate><guid>/p/minecraftserver/</guid><description>&lt;img src="/p/minecraftserver/cover.jpg" alt="Featured image of post 一个MineCraft服务器~" />&lt;h2 id="介绍">🪵介绍&lt;/h2>
+&lt;p>在这个公益服的世界中，你将迎接一个充满挑战和希望的旅程。&lt;/br>
+我们可能还在路上，但我们永不止步，不断致力于提供完善的设施。&lt;/br>
+加入钟乐，与志同道合的玩家一同探索、建造和共享创意。&lt;/br>
+在这个充满温暖与激情的游戏社区中，你将发现你所向往的生存之乐！&lt;/p>
+&lt;h2 id="服务器信息">🔨服务器信息&lt;/h2>
+&lt;p>version：1.20.1&lt;/br>
+ip：game.tblstudio.cn&lt;/p>
+&lt;h2 id="具体规则">🚧具体规则&lt;/h2>
+&lt;p>具体服务器规则请查看该文档&lt;/br>
+&lt;a class="link" href="https://docs.tblstudio.cn/gui-ze/fu-wu-qi-gui-ze" target="_blank" rel="noopener"
+>https://docs.tblstudio.cn/gui-ze/fu-wu-qi-gui-ze&lt;/a>&lt;/p>
+&lt;h2 id="加入我们">📜加入我们&lt;/h2>
+&lt;p>不要忘记加入我们的QQ群哦！&lt;/br>
+QQ群：&lt;a class="link" href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;amp;k=QLrR-96sjjag6kW4s4aEiaCgSISS82rQ&amp;amp;authKey=dT4xz1yY6M0JZSwPr5M1KylWGRQtKsrebJR4k5KY17ydwj7WgsH5KKKArRDzunLU&amp;amp;noverify=0&amp;amp;group_code=770813535" target="_blank" rel="noopener"
+>点击加入&lt;/a>&lt;/p>
+&lt;h2 id="题外话">🛞题外话&lt;/h2>
+&lt;p>也不知道写什么力&lt;/br>
+服务器也有很多问题&lt;/br>
+真心希望能有人帮我一起维护&lt;/br>
+如果你有一技之长,或者有什么开服务器或运营一个服务器的小技巧务必请你告诉我啊!&lt;/br>&lt;/p>
+&lt;ul>
+&lt;li>My QQ: 1990248284&lt;/li>
+&lt;/ul>
+&lt;p>不是为了流量&lt;/br>
+只是想让加入我们服务器的人有更好的体验!&lt;/br>
+或者让更多人加入我们~&lt;/br>
+所以还是谢谢你能看到这里!&lt;/br>&lt;/p></description></item><item><title>档案室</title><link>/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>/archives/</guid><description/></item><item><title>友链</title><link>/%E5%8F%8B%E9%93%BE/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/%E5%8F%8B%E9%93%BE/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>找找东西？</title><link>/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/search/</guid><description/></item></channel></rss>
