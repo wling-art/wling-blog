@@ -9,7 +9,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ## Hi,I'm **Wling**
 
-- 🔬学习中: 初中生 🐮🐴
+- 🔬学习中 🐮🐴
 - 💬 Some 链接:[Blog](https://home.tblstudio.cn/)
 - 🎮 打游戏 [CS2](https://store.steampowered.com/app/730/CounterStrike_2/)
 - 🛹 想找人陪我玩游戏🥲 [Steam](https://steamcommunity.com/profiles/76561199082915590/)
