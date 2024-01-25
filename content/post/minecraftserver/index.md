@@ -21,7 +21,7 @@ tags: [
 
 ## 🔨服务器信息
 
-version：1.20.1</br>
+version：1.20.2</br>
 ip：game.tblstudio.cn
 
 ## 🚧具体规则
